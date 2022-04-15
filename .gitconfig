@@ -1,0 +1,9 @@
+[wjj288]
+    name = wjj288
+    email = wjlima28@outlook.com
+[remote "origin"]
+    proxy = http://127.0.0.1:4780
+[http]
+    proxy = http://127.0.0.1:4780
+[https]
+    proxy = http://127.0.0.1:4780
